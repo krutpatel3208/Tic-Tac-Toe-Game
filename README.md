@@ -1,2 +1,6 @@
-# Tic-Tac-Toe-Game
-A game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
+# Tic-Tac-Toe
+Repository for a [Dev.to article](https://dev.to/bornasepic/pure-and-simple-tic-tac-toe-with-javascript-4pgn)
+
+#### Typescript
+If you're interested in a type supported version of the game checkout the `typescript` branch and follow the instructions from there.
+
